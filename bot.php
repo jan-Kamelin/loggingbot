@@ -1,6 +1,3 @@
-require 'rubygems'
-require 'isaac'
-
 config do |c|
   c.username = "logbot"
   c.realname = "Logging Bot"
